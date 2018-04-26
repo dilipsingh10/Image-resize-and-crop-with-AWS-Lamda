@@ -1,0 +1,37 @@
+{
+  "name": "cds-s3-and-postprocess",
+  "description": "Upload a files to S3 to trigger a lambda function.",
+  "version": "1.0.0",
+  "config": {
+    "profile": "default",
+    "region": "eu-west-1",
+    "memory": "1280",
+    "timeout": "5"
+  },
+  "author": {
+    "name": "Dilip Singh",
+    "email": "dilipsingh111@gmail.com",
+    "web": "https://github.com/dilipsingh10"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.149.0",
+    "babel-runtime": "6.26.0",
+    "exif-reader": "1.0.2",
+    "mime-types": "2.1.17",
+    "prettier": "1.8.2",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "serverless-apigw-binary": "^0.4.4",
+    "sharp": "^0.18.2",
+    "smartcrop-sharp": "^2.0.3",
+    "sprintf-js": "1.1.1"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/dilipsingh10/Image-resize-and-crop-with-AWS-Lamda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dilipsingh10/Image-resize-and-crop-with-AWS-Lamda/issues"
+  }
+}
