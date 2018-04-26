@@ -1,1 +1,3 @@
-# Image-resize-and-crop-with-AWS-Lamda
+# Image Resize and Crop with Sharp JS and AWS Lamda
+
+This is support the nodejs > 6.00
