@@ -1,1 +1,1 @@
-# Image-resize-and-crop-with-AWS-Lamda-
+# Image-resize-and-crop-with-AWS-Lamda
